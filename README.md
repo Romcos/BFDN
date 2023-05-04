@@ -9,5 +9,5 @@ With 1 agent. In this case, BFDN is equivalent to DFS. The robot is represented 
 With 2 agents
 ![](https://github.com/Romcos/BFDN/blob/main/demo2.gif)
 
-With 3 agents. In this example, we show the full graph in background (though the agents only use information gathered online)
+With 3 agents. In this example, we show the full graph in background (though the agents only use information gathered online). Unexplored nodes are represented in red.
 ![](https://github.com/Romcos/BFDN/blob/main/demo3.gif)
