@@ -1,5 +1,5 @@
 # BFDN
-Breadth-First Depth-Next: a simple algorithm for collective tree exploration. 
+Breadth-First Depth-Next: a simple algorithm for collaborative tree exploration. 
 
 Credits to Maxime Cartan. 
 
