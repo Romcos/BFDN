@@ -11,3 +11,8 @@ With 2 agents
 
 With 3 agents. In this example, we show the full graph in background (though the agents only use information gathered online). Unexplored nodes are represented in red.
 ![](https://github.com/Romcos/BFDN/blob/main/demo3.gif)
+
+
+Reference:
+
+Romain Cosson, Laurent Massoulié, and Laurent Viennot. "Breadth-First Depth-Next: Optimal Collaborative Exploration of Trees with Low Diameter." arXiv preprint arXiv:2301.13307 (2023).
