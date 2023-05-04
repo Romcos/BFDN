@@ -1,7 +1,9 @@
 # BFDN
-Breadth-First Depth-Next: a simple algorithm for collective tree epxploration
+Breadth-First Depth-Next: a simple algorithm for collective tree exploration. 
 
-With 1 agent (DFS). The robot is represented as a green dot, and dangling edges are represented as blue segments with a single endpoint.
+Credits to Maxime Cartan. 
+
+With 1 agent. In this case, BFDN is equivalent to DFS. The robot is represented by a green dot, and dangling edges are represented as blue segments with a single endpoint.
 ![](https://github.com/Romcos/BFDN/blob/main/demo1.gif)
 
 With 2 agents
